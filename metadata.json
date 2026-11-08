@@ -1,0 +1,6 @@
+{
+  "name": "EJS Science World",
+  "description": "Interactive bilingual science learning platform with 3D atomic structure lab, virtual experiments, periodic table, and STEM simulations for Egyptian Japanese School – El Salam 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
